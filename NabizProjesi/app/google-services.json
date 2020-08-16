@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "981847148378",
+    "firebase_url": "https://pulseproject-751bd.firebaseio.com",
+    "project_id": "pulseproject-751bd",
+    "storage_bucket": "pulseproject-751bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981847148378:android:d4dfd2c8fb46d043575563",
+        "android_client_info": {
+          "package_name": "com.example.nabizprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981847148378-agj7r8ihrmaj360nmujk5s1ds69apa33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nabizprojesi",
+            "certificate_hash": "735ff3e66e82b9bcc30001805691b832ff1ab97c"
+          }
+        },
+        {
+          "client_id": "981847148378-mh6g8b5s1g1kpsp6tmjn9f8km4mouhad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEJvcl_UaW_zwMsQWSzFUryZy4qbt9WCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981847148378-mh6g8b5s1g1kpsp6tmjn9f8km4mouhad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
